@@ -6,7 +6,7 @@
 2.实现的功能是爬取百度百科词条名以及首段说明文本
 
 
-3.实例从http://baike.baidu.com/view/21087.htm开始，抓取200条数据
+3.根连接--http://baike.baidu.com/view/21087.htm开始
 
 
-4.aaa.html展示爬取数据表格输出
+4.aaa.html展示表格输出抓取的200条数据
